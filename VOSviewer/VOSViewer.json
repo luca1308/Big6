@@ -1,0 +1,2858 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "abdalla m. abdalla (2018)",
+				"description": "<table><tr><td>Authors:</td><td>abdalla m. abdalla; shahzad hossain; ozzan b. nisfindy; atia t. azad; mohamed m. khairat dawood; abul kalam azad</td></tr><tr><td>Title:</td><td>hydrogen production, storage, transportation and key challenges with applications: a review</td></tr><tr><td>Source:</td><td>energy conversion and management, 165, 602-627</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.enconman.2018.03.088",
+				"x": -0.7848,
+				"y": 0.0784,
+				"cluster": 12,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 654.0000,
+					"Norm. citations": 40.4766
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 654.0000,
+					"Norm. citations": 40.4766
+				}
+			},
+			{
+				"id": 2,
+				"label": "fan zhang (2016)",
+				"description": "<table><tr><td>Authors:</td><td>fan zhang; pengcheng zhao; meng niu; jon maddy</td></tr><tr><td>Title:</td><td>the survey of key technologies in hydrogen energy storage</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 41(33), 14535-14552</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2016.05.293",
+				"x": -0.6964,
+				"y": 0.0335,
+				"cluster": 12,
+				"weights": {
+					"Links": 14.0000,
+					"Citations": 456.0000,
+					"Norm. citations": 42.9121
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 456.0000,
+					"Norm. citations": 42.9121
+				}
+			},
+			{
+				"id": 3,
+				"label": "ahmet özarslan (2012)",
+				"description": "<table><tr><td>Authors:</td><td>ahmet özarslan</td></tr><tr><td>Title:</td><td>large-scale hydrogen energy storage in salt caverns</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 37(19), 14265-14277</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2012.07.111",
+				"x": -0.8902,
+				"y": -0.0454,
+				"cluster": 4,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 264.0000,
+					"Norm. citations": 9.8524
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 264.0000,
+					"Norm. citations": 9.8524
+				}
+			},
+			{
+				"id": 5,
+				"label": "pedro rodriguez (2012)",
+				"description": "<table><tr><td>Authors:</td><td>pedro rodriguez; aurelio luna; r.s. munoz-aguilar; ion etxeberria-otadui; remus teodorescu; frede blaabjerg</td></tr><tr><td>Title:</td><td>a stationary reference frame grid synchronization system for three-phase grid-connected power converters under adverse grid conditions</td></tr><tr><td>Source:</td><td>ieee transactions on power electronics, 27(1), 99-112</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tpel.2011.2159242",
+				"x": 1.2878,
+				"y": -0.1033,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Citations": 534.0000,
+					"Norm. citations": 19.9288
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 534.0000,
+					"Norm. citations": 19.9288
+				}
+			},
+			{
+				"id": 7,
+				"label": "jingyang fang (2018a)",
+				"description": "<table><tr><td>Authors:</td><td>jingyang fang; hongchang li; yi tang; frede blaabjerg</td></tr><tr><td>Title:</td><td>distributed power system virtual inertia implemented by grid-connected power converters</td></tr><tr><td>Source:</td><td>ieee transactions on power electronics, 33(10), 8488-8499</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tpel.2017.2785218",
+				"x": 0.8353,
+				"y": 0.0330,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 267.0000,
+					"Norm. citations": 16.5249
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 267.0000,
+					"Norm. citations": 16.5249
+				}
+			},
+			{
+				"id": 13,
+				"label": "marian p. kazmierkowski (2011)",
+				"description": "<table><tr><td>Authors:</td><td>marian p. kazmierkowski; grażyna wrona</td></tr><tr><td>Title:</td><td>dsp-based control of grid-connected power converters operating under grid distortions</td></tr><tr><td>Source:</td><td>ieee transactions on industrial informatics, 7(2), 204-211</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tii.2011.2134856",
+				"x": 1.3907,
+				"y": -0.1808,
+				"cluster": 15,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 173.0000,
+					"Norm. citations": 23.4112
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 173.0000,
+					"Norm. citations": 23.4112
+				}
+			},
+			{
+				"id": 22,
+				"label": "weiwei li (2014)",
+				"description": "<table><tr><td>Authors:</td><td>weiwei li; xinbo ruan; chenlei bao; donghua pan; xue-hua wang</td></tr><tr><td>Title:</td><td>grid synchronization systems of three-phase grid-connected power converters: a complex-vector-filter perspective</td></tr><tr><td>Source:</td><td>ieee transactions on industrial electronics, 61(4), 1855-1870</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tie.2013.2262762",
+				"x": 1.3494,
+				"y": -0.0595,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 166.0000,
+					"Norm. citations": 10.7932
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 166.0000,
+					"Norm. citations": 10.7932
+				}
+			},
+			{
+				"id": 23,
+				"label": "mingxing bai (2014)",
+				"description": "<table><tr><td>Authors:</td><td>mingxing bai; kaoping song; yuxue sun; meng-qi he; yan li; jianpeng sun</td></tr><tr><td>Title:</td><td>an overview of hydrogen underground storage technology and prospects in china</td></tr><tr><td>Source:</td><td>journal of petroleum science and engineering, 124, 132-136</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.petrol.2014.09.037",
+				"x": -0.8172,
+				"y": 0.0227,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 85.0000,
+					"Norm. citations": 5.5267
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 85.0000,
+					"Norm. citations": 5.5267
+				}
+			},
+			{
+				"id": 26,
+				"label": "akbar maleki (2017)",
+				"description": "<table><tr><td>Authors:</td><td>akbar maleki</td></tr><tr><td>Title:</td><td>design and optimization of autonomous solar-wind-reverse osmosis desalination systems coupling battery and hydrogen energy storage by an improved bee algorithm</td></tr><tr><td>Source:</td><td>desalination, 435, 221-234</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.desal.2017.05.034",
+				"x": -1.1454,
+				"y": -0.1500,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 175.0000,
+					"Norm. citations": 11.9587
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 175.0000,
+					"Norm. citations": 11.9587
+				}
+			},
+			{
+				"id": 28,
+				"label": "ali tayyebi (2020a)",
+				"description": "<table><tr><td>Authors:</td><td>ali tayyebi; dominic grob; adolfo anta; friederich kupzog; florian dörfler</td></tr><tr><td>Title:</td><td>frequency stability of synchronous machines and grid-forming power converters</td></tr><tr><td>Source:</td><td>ieee journal of emerging and selected topics in power electronics, 8(2), 1004-1018</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/jestpe.2020.2966524",
+				"x": 1.0061,
+				"y": 0.3000,
+				"cluster": 8,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 101.0000,
+					"Norm. citations": 10.9657
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 101.0000,
+					"Norm. citations": 10.9657
+				}
+			},
+			{
+				"id": 29,
+				"label": "paolo colbertaldo (2019)",
+				"description": "<table><tr><td>Authors:</td><td>paolo colbertaldo; stacey britni agustin; thomas grube; jack brouwer</td></tr><tr><td>Title:</td><td>impact of hydrogen energy storage on california electric power system: towards 100% renewable electricity</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 44(19), 9558-9576</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2018.11.062",
+				"x": -0.2913,
+				"y": 0.1377,
+				"cluster": 6,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 107.0000,
+					"Norm. citations": 14.4522
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 107.0000,
+					"Norm. citations": 14.4522
+				}
+			},
+			{
+				"id": 31,
+				"label": "dinesh kumar (2016)",
+				"description": "<table><tr><td>Authors:</td><td>dinesh kumar; firuz zare</td></tr><tr><td>Title:</td><td>harmonic analysis of grid connected power electronic systems in low voltage distribution networks</td></tr><tr><td>Source:</td><td>ieee journal of emerging and selected topics in power electronics, 4(1), 70-79</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/jestpe.2015.2454537",
+				"x": 1.3156,
+				"y": -0.2025,
+				"cluster": 13,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 110.0000,
+					"Norm. citations": 10.3516
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 110.0000,
+					"Norm. citations": 10.3516
+				}
+			},
+			{
+				"id": 32,
+				"label": "alev taskin gumus (2013)",
+				"description": "<table><tr><td>Authors:</td><td>alev taskin gumus; ayse yayla; erkan celik; aytaç yildiz</td></tr><tr><td>Title:</td><td>a combined fuzzy-ahp and fuzzy-gra methodology for hydrogen energy storage method selection in turkey</td></tr><tr><td>Source:</td><td>energies, 6(6), 3017-3032</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.3390/en6063017",
+				"x": -0.7366,
+				"y": -0.0291,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 86.0000,
+					"Norm. citations": 9.5556
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 86.0000,
+					"Norm. citations": 9.5556
+				}
+			},
+			{
+				"id": 38,
+				"label": "hamid reza baghaee (2017)",
+				"description": "<table><tr><td>Authors:</td><td>hamid reza baghaee; mojtaba mirsalim; gevork b. gharehpetian</td></tr><tr><td>Title:</td><td>multi-objective optimal power management and sizing of a reliable wind/pv microgrid with hydrogen energy storage using mopso</td></tr><tr><td>Source:</td><td>journal of intelligent and fuzzy systems, 32(3), 1753-1773</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.3233/jifs-152372",
+				"x": -0.2179,
+				"y": 0.0639,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 99.0000,
+					"Norm. citations": 6.7652
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 99.0000,
+					"Norm. citations": 6.7652
+				}
+			},
+			{
+				"id": 41,
+				"label": "guotao zhang (2014)",
+				"description": "<table><tr><td>Authors:</td><td>guotao zhang; xinhua wan</td></tr><tr><td>Title:</td><td>a wind-hydrogen energy storage system model for massive wind energy curtailment</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 39(3), 1243-1252</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2013.11.003",
+				"x": -0.4423,
+				"y": 0.2506,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 63.0000,
+					"Norm. citations": 4.0962
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 63.0000,
+					"Norm. citations": 4.0962
+				}
+			},
+			{
+				"id": 42,
+				"label": "stefan iglauer (2021)",
+				"description": "<table><tr><td>Authors:</td><td>stefan iglauer; muhammad ali; alireza keshavarz</td></tr><tr><td>Title:</td><td>hydrogen wettability of sandstone reservoirs: implications for hydrogen geo‐storage</td></tr><tr><td>Source:</td><td>geophysical research letters, 48(3)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1029/2020gl090814",
+				"x": -0.9272,
+				"y": 0.0796,
+				"cluster": 7,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 61.0000,
+					"Norm. citations": 9.4249
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 61.0000,
+					"Norm. citations": 9.4249
+				}
+			},
+			{
+				"id": 43,
+				"label": "sotirios karellas (2014)",
+				"description": "<table><tr><td>Authors:</td><td>sotirios karellas; nikolaos tzouganatos</td></tr><tr><td>Title:</td><td>comparison of the performance of compressed-air and hydrogen energy storage systems: karpathos island case study</td></tr><tr><td>Source:</td><td>renewable & sustainable energy reviews, 29, 865-882</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.rser.2013.07.019",
+				"x": -0.5498,
+				"y": 0.3167,
+				"cluster": 9,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 73.0000,
+					"Norm. citations": 4.7464
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 73.0000,
+					"Norm. citations": 4.7464
+				}
+			},
+			{
+				"id": 51,
+				"label": "ioan iordache (2014)",
+				"description": "<table><tr><td>Authors:</td><td>ioan iordache; dorin schitea; adrian v. gheorghe; mihaela iordache</td></tr><tr><td>Title:</td><td>hydrogen underground storage in romania, potential directions of development, stakeholders and general aspects</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 39(21), 11071-11081</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2014.05.067",
+				"x": -0.8147,
+				"y": -0.0113,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 3.7061
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 3.7061
+				}
+			},
+			{
+				"id": 52,
+				"label": "marcello colombino (2019)",
+				"description": "<table><tr><td>Authors:</td><td>marcello colombino; dominic groß; jean-sebastien brouillon; florian dörfler</td></tr><tr><td>Title:</td><td>global phase and magnitude synchronization of coupled oscillators with application to the control of grid-forming power inverters</td></tr><tr><td>Source:</td><td>ieee transactions on automatic control, 64(11), 4496-4511</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tac.2019.2898549",
+				"x": 1.0460,
+				"y": 0.3529,
+				"cluster": 8,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 81.0000,
+					"Norm. citations": 10.9404
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 81.0000,
+					"Norm. citations": 10.9404
+				}
+			},
+			{
+				"id": 53,
+				"label": "hasan mehrjerdi (2019)",
+				"description": "<table><tr><td>Authors:</td><td>hasan mehrjerdi</td></tr><tr><td>Title:</td><td>off-grid solar powered charging station for electric and hydrogen vehicles including fuel cell and hydrogen storage</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 44(23), 11574-11583</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2019.03.158",
+				"x": -0.0410,
+				"y": -0.3003,
+				"cluster": 10,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 93.0000,
+					"Norm. citations": 12.5612
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 93.0000,
+					"Norm. citations": 12.5612
+				}
+			},
+			{
+				"id": 54,
+				"label": "joshua d. simon (2015)",
+				"description": "<table><tr><td>Authors:</td><td>joshua d. simon; a. m. férriz; luis correas</td></tr><tr><td>Title:</td><td>hyunder – hydrogen underground storage at large scale: case study spain</td></tr><tr><td>Source:</td><td>energy procedia, 73, 136-144</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.egypro.2015.07.661",
+				"x": -0.8847,
+				"y": -0.0005,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 50.0000,
+					"Norm. citations": 4.2083
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 50.0000,
+					"Norm. citations": 4.2083
+				}
+			},
+			{
+				"id": 56,
+				"label": "jingyang fang (2019)",
+				"description": "<table><tr><td>Authors:</td><td>jingyang fang; ruiqi zhang; hongchang li; yi tang</td></tr><tr><td>Title:</td><td>frequency derivative-based inertia enhancement by grid-connected power converters with a frequency-locked-loop</td></tr><tr><td>Source:</td><td>ieee transactions on smart grid, 10(5), 4918-4927</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tsg.2018.2871085",
+				"x": 0.9162,
+				"y": 0.0030,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 76.0000,
+					"Norm. citations": 10.2651
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 76.0000,
+					"Norm. citations": 10.2651
+				}
+			},
+			{
+				"id": 58,
+				"label": "mohamed becherif (2015)",
+				"description": "<table><tr><td>Authors:</td><td>mohamed becherif; haitham saad mohamed ramadan; katy cabaret; franck picard; n. simoncini; olivier béthoux</td></tr><tr><td>Title:</td><td>hydrogen energy storage: new techno-economic emergence solution analysis</td></tr><tr><td>Source:</td><td>energy procedia, 74, 371-380</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.egypro.2015.07.629",
+				"x": -0.4803,
+				"y": 0.0285,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 47.0000,
+					"Norm. citations": 3.9558
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 47.0000,
+					"Norm. citations": 3.9558
+				}
+			},
+			{
+				"id": 60,
+				"label": "mohammad mirzaei (2019)",
+				"description": "<table><tr><td>Authors:</td><td>mohammad mirzaei; ahmad sadeghi yazdankhah; behnam mohammadi-ivatloo</td></tr><tr><td>Title:</td><td>stochastic security-constrained operation of wind and hydrogen energy storage systems integrated with price-based demand response</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 44(27), 14217-14227</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2018.12.054",
+				"x": -0.0932,
+				"y": -0.2261,
+				"cluster": 10,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 73.0000,
+					"Norm. citations": 9.8599
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 73.0000,
+					"Norm. citations": 9.8599
+				}
+			},
+			{
+				"id": 63,
+				"label": "amjad anvari-moghaddam (2017)",
+				"description": "<table><tr><td>Authors:</td><td>amjad anvari-moghaddam; kazem zare; behnam mohammadi-ivatloo</td></tr><tr><td>Title:</td><td>application of fuel cell and electrolyzer as hydrogen energy storage system in energy management of electricity energy retailer in the presence of the renewable energy sources and plug-in electric vehicles</td></tr><tr><td>Source:</td><td>energy conversion and management, 136, 404-417</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.enconman.2017.01.017",
+				"x": -0.2011,
+				"y": -0.1814,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 100.0000,
+					"Norm. citations": 6.8336
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 100.0000,
+					"Norm. citations": 6.8336
+				}
+			},
+			{
+				"id": 66,
+				"label": "daniele groppi (2018)",
+				"description": "<table><tr><td>Authors:</td><td>daniele groppi; davide astiaso garcia; gianluigi lo basso; fabrizio cumo; livio de santoli</td></tr><tr><td>Title:</td><td>analysing economic and environmental sustainability related to the use of battery and hydrogen energy storages for increasing the energy independence of small islands</td></tr><tr><td>Source:</td><td>energy conversion and management, 177, 64-76</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.enconman.2018.09.063",
+				"x": -0.1954,
+				"y": 0.0756,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 4.6418
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 4.6418
+				}
+			},
+			{
+				"id": 67,
+				"label": "pedro rodriguez (2013)",
+				"description": "<table><tr><td>Authors:</td><td>pedro rodriguez; jose ignacio candela; costantino citro; joan rocabert; alvaro luna</td></tr><tr><td>Title:</td><td>control of grid-connected power converters based on a virtual admittance control loop</td></tr><tr><td>Source:</td><td>european conference on power electronics and applications</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/epe.2013.6634621",
+				"x": 1.4191,
+				"y": -0.1130,
+				"cluster": 16,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 55.0000,
+					"Norm. citations": 6.1111
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 55.0000,
+					"Norm. citations": 6.1111
+				}
+			},
+			{
+				"id": 70,
+				"label": "muhammet deveci (2018)",
+				"description": "<table><tr><td>Authors:</td><td>muhammet deveci</td></tr><tr><td>Title:</td><td>site selection for hydrogen underground storage using interval type-2 hesitant fuzzy sets</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 43(19), 9353-9368</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2018.03.127",
+				"x": -0.7908,
+				"y": 0.0021,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 56.0000,
+					"Norm. citations": 3.4659
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 56.0000,
+					"Norm. citations": 3.4659
+				}
+			},
+			{
+				"id": 71,
+				"label": "steven flesch (2018)",
+				"description": "<table><tr><td>Authors:</td><td>steven flesch; dieter pudlo; daniel s. albrecht; arne f. jacob; frieder enzmann</td></tr><tr><td>Title:</td><td>hydrogen underground storage—petrographic and petrophysical variations in reservoir sandstones from laboratory experiments under simulated reservoir conditions</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 43(45), 20822-20835</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2018.09.112",
+				"x": -0.8736,
+				"y": 0.0109,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 68.0000,
+					"Norm. citations": 4.2086
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 68.0000,
+					"Norm. citations": 4.2086
+				}
+			},
+			{
+				"id": 73,
+				"label": "mirhasan hosseini (2022a)",
+				"description": "<table><tr><td>Authors:</td><td>mirhasan hosseini; jalal fahimpour; muhammad ali; alireza keshavarz; stefan iglauer</td></tr><tr><td>Title:</td><td>hydrogen wettability of carbonate formations: implications for hydrogen geo-storage</td></tr><tr><td>Source:</td><td>journal of colloid and interface science, 614, 256-266</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.jcis.2022.01.068",
+				"x": -0.9343,
+				"y": 0.0477,
+				"cluster": 7,
+				"weights": {
+					"Links": 11.0000,
+					"Citations": 45.0000,
+					"Norm. citations": 17.0380
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 45.0000,
+					"Norm. citations": 17.0380
+				}
+			},
+			{
+				"id": 75,
+				"label": "yaser maniyali (2013)",
+				"description": "<table><tr><td>Authors:</td><td>yaser maniyali; ali almansoori; michael fowler; ali elkamel</td></tr><tr><td>Title:</td><td>energy hub based on nuclear energy and hydrogen energy storage</td></tr><tr><td>Source:</td><td>industrial & engineering chemistry research, 52(22), 7470-7481</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1021/ie302161n",
+				"x": -0.8585,
+				"y": 0.0763,
+				"cluster": 12,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 3.7778
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 3.7778
+				}
+			},
+			{
+				"id": 78,
+				"label": "muhammad ali (2021a)",
+				"description": "<table><tr><td>Authors:</td><td>muhammad ali; ahmed al-yaseri; yihuai zhang; stefan iglauer; mohammad sarmadivaleh</td></tr><tr><td>Title:</td><td>hydrogen wettability of quartz substrates exposed to organic acids; implications for hydrogen geo-storage in sandstone reservoirs</td></tr><tr><td>Source:</td><td>journal of petroleum science and engineering, 207, 109081-109081</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.petrol.2021.109081",
+				"x": -0.9703,
+				"y": 0.0672,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 58.0000,
+					"Norm. citations": 8.9614
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 58.0000,
+					"Norm. citations": 8.9614
+				}
+			},
+			{
+				"id": 81,
+				"label": "mohammadreza daneshvar (2021)",
+				"description": "<table><tr><td>Authors:</td><td>mohammadreza daneshvar; behnam mohammadi-ivatloo; kazem zare; somayeh asadi</td></tr><tr><td>Title:</td><td>transactive energy management for optimal scheduling of interconnected microgrids with hydrogen energy storage</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 46(30), 16267-16278</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2020.09.064",
+				"x": -0.1226,
+				"y": -0.0663,
+				"cluster": 11,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 45.0000,
+					"Norm. citations": 6.9528
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 45.0000,
+					"Norm. citations": 6.9528
+				}
+			},
+			{
+				"id": 84,
+				"label": "yuchen pu (2019)",
+				"description": "<table><tr><td>Authors:</td><td>yuchen pu; qi li; weirong chen; hong liu</td></tr><tr><td>Title:</td><td>hierarchical energy management control for islanding dc microgrid with electric-hydrogen hybrid storage system</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 44(11), 5153-5161</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2018.10.043",
+				"x": -0.1284,
+				"y": -0.0056,
+				"cluster": 11,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 47.0000,
+					"Norm. citations": 6.3482
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 47.0000,
+					"Norm. citations": 6.3482
+				}
+			},
+			{
+				"id": 85,
+				"label": "muhammad ali (2021b)",
+				"description": "<table><tr><td>Authors:</td><td>muhammad ali; nurudeen yekeen; ajay mandal; alireza keshavarz; stefan iglauer; hussein hoteit</td></tr><tr><td>Title:</td><td>influence of pressure, temperature and organic surface concentration on hydrogen wettability of caprock; implications for hydrogen geo-storage</td></tr><tr><td>Source:</td><td>energy reports, 7, 5988-5996</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.egyr.2021.09.016",
+				"x": -0.9546,
+				"y": 0.0495,
+				"cluster": 7,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 55.0000,
+					"Norm. citations": 8.4979
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 55.0000,
+					"Norm. citations": 8.4979
+				}
+			},
+			{
+				"id": 87,
+				"label": "akmal zaini arsad (2022)",
+				"description": "<table><tr><td>Authors:</td><td>akmal zaini arsad; mahammad a. hannan; ali q. al-shetwi; marcela b. mansur; kashem m. muttaqi; rui zhang; frede blaabjerg</td></tr><tr><td>Title:</td><td>hydrogen energy storage integrated hybrid renewable energy systems: a review analysis for future research directions</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 47(39), 17285-17312</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2022.03.208",
+				"x": -0.2132,
+				"y": 0.0770,
+				"cluster": 6,
+				"weights": {
+					"Links": 9.0000,
+					"Citations": 60.0000,
+					"Norm. citations": 22.7174
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 60.0000,
+					"Norm. citations": 22.7174
+				}
+			},
+			{
+				"id": 91,
+				"label": "faraz baradarani (2015)",
+				"description": "<table><tr><td>Authors:</td><td>faraz baradarani; mohammad r. dadash zadeh; mehdi zamani</td></tr><tr><td>Title:</td><td>a phase-angle estimation method for synchronization of grid-connected power-electronic converters</td></tr><tr><td>Source:</td><td>ieee transactions on power delivery, 30(2), 827-835</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tpwrd.2014.2362930",
+				"x": 1.3127,
+				"y": -0.1928,
+				"cluster": 13,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 3.6192
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 3.6192
+				}
+			},
+			{
+				"id": 94,
+				"label": "jia liu (2021a)",
+				"description": "<table><tr><td>Authors:</td><td>jia liu; xi chen; hongxing yang; kui shan</td></tr><tr><td>Title:</td><td>hybrid renewable energy applications in zero-energy buildings and communities integrating battery and hydrogen vehicle storage</td></tr><tr><td>Source:</td><td>applied energy, 290, 116733-116733</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.apenergy.2021.116733",
+				"x": -0.1306,
+				"y": 0.1988,
+				"cluster": 14,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 52.0000,
+					"Norm. citations": 8.0343
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 52.0000,
+					"Norm. citations": 8.0343
+				}
+			},
+			{
+				"id": 97,
+				"label": "alireza keshavarz (2022)",
+				"description": "<table><tr><td>Authors:</td><td>alireza keshavarz; hussein rasool abid; muhammad ali; sefan iglauer</td></tr><tr><td>Title:</td><td>hydrogen diffusion in coal: implications for hydrogen geo‐storage</td></tr><tr><td>Source:</td><td>journal of colloid and interface science, 608, 1457-1462</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.jcis.2021.10.050",
+				"x": -0.9048,
+				"y": 0.0655,
+				"cluster": 7,
+				"weights": {
+					"Links": 9.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 11.7373
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 11.7373
+				}
+			},
+			{
+				"id": 98,
+				"label": "erick oviedo (2018)",
+				"description": "<table><tr><td>Authors:</td><td>erick oviedo; nimrod vazquez; ricardo femat</td></tr><tr><td>Title:</td><td>synchronization technique of grid-connected power converters based on a limit cycle oscillator</td></tr><tr><td>Source:</td><td>ieee transactions on industrial electronics, 65(1), 709-717</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tie.2017.2703655",
+				"x": 1.3085,
+				"y": -0.1787,
+				"cluster": 13,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 40.0000,
+					"Norm. citations": 2.4756
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 40.0000,
+					"Norm. citations": 2.4756
+				}
+			},
+			{
+				"id": 99,
+				"label": "hua geng (2011)",
+				"description": "<table><tr><td>Authors:</td><td>hua geng; dewei xu; bin wu</td></tr><tr><td>Title:</td><td>a novel hardware-based all-digital phase-locked loop applied to grid-connected power converters</td></tr><tr><td>Source:</td><td>ieee transactions on industrial electronics, 58(5), 1737-1745</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tie.2010.2053338",
+				"x": 1.3364,
+				"y": -0.0593,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 46.0000,
+					"Norm. citations": 6.2250
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 46.0000,
+					"Norm. citations": 6.2250
+				}
+			},
+			{
+				"id": 104,
+				"label": "m. s. okundamiya (2021)",
+				"description": "<table><tr><td>Authors:</td><td>m. s. okundamiya</td></tr><tr><td>Title:</td><td>size optimization of a hybrid photovoltaic/fuel cell grid connected power system including hydrogen storage</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 46(59), 30539-30546</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2020.11.185",
+				"x": -0.0348,
+				"y": -0.3095,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 48.0000,
+					"Norm. citations": 7.4163
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 48.0000,
+					"Norm. citations": 7.4163
+				}
+			},
+			{
+				"id": 105,
+				"label": "weiyi zhang (2017a)",
+				"description": "<table><tr><td>Authors:</td><td>weiyi zhang; daniel remon; pedro rodriguez</td></tr><tr><td>Title:</td><td>frequency support characteristics of grid‐interactive power converters based on the synchronous power controller</td></tr><tr><td>Source:</td><td>iet renewable power generation, 11(4), 470-479</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1049/iet-rpg.2016.0557",
+				"x": 0.9450,
+				"y": 0.2100,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 2.9384
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 2.9384
+				}
+			},
+			{
+				"id": 108,
+				"label": "daniel scamman (2015)",
+				"description": "<table><tr><td>Authors:</td><td>daniel scamman; marcus newborough; hedie bustamante</td></tr><tr><td>Title:</td><td>hybrid hydrogen-battery systems for renewable off-grid telecom power</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 40(40), 13876-13887</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2015.08.071",
+				"x": -0.3518,
+				"y": -0.2896,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 2.6092
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 2.6092
+				}
+			},
+			{
+				"id": 116,
+				"label": "jia liu (2021b)",
+				"description": "<table><tr><td>Authors:</td><td>jia liu; sunliang cao; xi chen; hongxing yang; jinqing peng</td></tr><tr><td>Title:</td><td>energy planning of renewable applications in high-rise residential buildings integrating battery and hydrogen vehicle storage</td></tr><tr><td>Source:</td><td>applied energy, 281, 116038-116038</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.apenergy.2020.116038",
+				"x": -0.1365,
+				"y": 0.1849,
+				"cluster": 14,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 41.0000,
+					"Norm. citations": 6.3348
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 41.0000,
+					"Norm. citations": 6.3348
+				}
+			},
+			{
+				"id": 131,
+				"label": "jingyang fang (2021a)",
+				"description": "<table><tr><td>Authors:</td><td>jingyang fang; hao deng; stefan m. goetz</td></tr><tr><td>Title:</td><td>grid impedance estimation through grid-forming power converters</td></tr><tr><td>Source:</td><td>ieee transactions on power electronics, 36(2), 2094-2104</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tpel.2020.3010874",
+				"x": 0.8883,
+				"y": -0.0132,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 4.1717
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 4.1717
+				}
+			},
+			{
+				"id": 132,
+				"label": "dimitrios apostolou (2020)",
+				"description": "<table><tr><td>Authors:</td><td>dimitrios apostolou</td></tr><tr><td>Title:</td><td>optimisation of a hydrogen production – storage – re-powering system participating in electricity and transportation markets. a case study for denmark</td></tr><tr><td>Source:</td><td>applied energy, 265, 114800-114800</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.apenergy.2020.114800",
+				"x": -0.4494,
+				"y": 0.2429,
+				"cluster": 9,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 36.0000,
+					"Norm. citations": 3.9086
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 36.0000,
+					"Norm. citations": 3.9086
+				}
+			},
+			{
+				"id": 134,
+				"label": "yue xiang (2021)",
+				"description": "<table><tr><td>Authors:</td><td>yue xiang; hanhu cai; junyong liu; xin zhang</td></tr><tr><td>Title:</td><td>techno-economic design of energy systems for airport electrification: a hydrogen-solar-storage integrated microgrid solution</td></tr><tr><td>Source:</td><td>applied energy, 283, 116374-116374</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.apenergy.2020.116374",
+				"x": -0.4561,
+				"y": 0.2504,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 5.4077
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 5.4077
+				}
+			},
+			{
+				"id": 135,
+				"label": "xiaochao fan (2017)",
+				"description": "<table><tr><td>Authors:</td><td>xiaochao fan; weiqing wang; ruijing shi; zhi-jiang cheng</td></tr><tr><td>Title:</td><td>hybrid pluripotent coupling system with wind and photovoltaic-hydrogen energy storage and the coal chemical industry in hami, xinjiang</td></tr><tr><td>Source:</td><td>renewable & sustainable energy reviews, 72, 950-960</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.rser.2017.01.085",
+				"x": -0.3534,
+				"y": -0.2266,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 2.2551
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 2.2551
+				}
+			},
+			{
+				"id": 136,
+				"label": "kevin knosala (2021)",
+				"description": "<table><tr><td>Authors:</td><td>kevin knosala; miguel heleno; frank röben; peter stenzel; ludger blum; martin robinius; detlef stolten</td></tr><tr><td>Title:</td><td>hybrid hydrogen home storage for decentralized energy autonomy</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 46(42), 21748-21763</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2021.04.036",
+				"x": -0.2610,
+				"y": 0.1266,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 3.2446
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 3.2446
+				}
+			},
+			{
+				"id": 137,
+				"label": "md. shamim reza (2019)",
+				"description": "<table><tr><td>Authors:</td><td>md. shamim reza; fahmid sadeque; maruf hossain; amer m. y. m. ghias; vassilios g. agelidis</td></tr><tr><td>Title:</td><td>three-phase pll for grid-connected power converters under both amplitude and phase unbalanced conditions</td></tr><tr><td>Source:</td><td>ieee transactions on industrial electronics, 66(11), 8881-8891</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tie.2019.2893857",
+				"x": 1.3628,
+				"y": -0.0657,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 36.0000,
+					"Norm. citations": 4.8624
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 36.0000,
+					"Norm. citations": 4.8624
+				}
+			},
+			{
+				"id": 138,
+				"label": "mirhasan hosseini (2022b)",
+				"description": "<table><tr><td>Authors:</td><td>mirhasan hosseini; jalal fahimpour; muhammad ali; alireza keshavarz; stefan iglauer</td></tr><tr><td>Title:</td><td>capillary sealing efficiency analysis of caprocks: implication for hydrogen geological storage</td></tr><tr><td>Source:</td><td>energy & fuels, 36(7), 4065-4075</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1021/acs.energyfuels.2c00281",
+				"x": -0.9516,
+				"y": 0.0947,
+				"cluster": 7,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 10.2228
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 10.2228
+				}
+			},
+			{
+				"id": 140,
+				"label": "mirhasan hosseini (2022c)",
+				"description": "<table><tr><td>Authors:</td><td>mirhasan hosseini; jalal fahimpour; muhammad ali; alireza keshavarz; stefan iglauer</td></tr><tr><td>Title:</td><td>h2−brine interfacial tension as a function of salinity, temperature, and pressure; implications for hydrogen geo-storage</td></tr><tr><td>Source:</td><td>journal of petroleum science and engineering, 213, 110441-110441</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.petrol.2022.110441",
+				"x": -0.9673,
+				"y": 0.0842,
+				"cluster": 7,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 12.8732
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 12.8732
+				}
+			},
+			{
+				"id": 144,
+				"label": "qiao peng (2020)",
+				"description": "<table><tr><td>Authors:</td><td>qiao peng; ariya sangwongwanich; yongheng yang; frede blaabjerg</td></tr><tr><td>Title:</td><td>grid-friendly power control for smart photovoltaic systems</td></tr><tr><td>Source:</td><td>solar energy, 210, 115-127</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.solener.2020.05.001",
+				"x": 0.8307,
+				"y": 0.0462,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 2.2800
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 2.2800
+				}
+			},
+			{
+				"id": 147,
+				"label": "sefan iglauer (2021)",
+				"description": "<table><tr><td>Authors:</td><td>sefan iglauer; hussein rasool abid; ahmed al-yaseri; alireza keshavarz</td></tr><tr><td>Title:</td><td>hydrogen adsorption on sub‐bituminous coal: implications for hydrogen geo‐storage</td></tr><tr><td>Source:</td><td>geophysical research letters, 48(10)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1029/2021gl092976",
+				"x": -0.9143,
+				"y": 0.0490,
+				"cluster": 7,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 23.0000,
+					"Norm. citations": 3.5536
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 23.0000,
+					"Norm. citations": 3.5536
+				}
+			},
+			{
+				"id": 148,
+				"label": "pietari puranen (2021)",
+				"description": "<table><tr><td>Authors:</td><td>pietari puranen; antti kosonen; jero ahola</td></tr><tr><td>Title:</td><td>technical feasibility evaluation of a solar pv based off-grid domestic energy system with battery and hydrogen energy storage in northern climates</td></tr><tr><td>Source:</td><td>solar energy, 213, 246-259</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.solener.2020.10.089",
+				"x": -0.3498,
+				"y": -0.2821,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 41.0000,
+					"Norm. citations": 6.3348
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 41.0000,
+					"Norm. citations": 6.3348
+				}
+			},
+			{
+				"id": 152,
+				"label": "a. hemdani (2015)",
+				"description": "<table><tr><td>Authors:</td><td>a. hemdani; mohamed dagbagi; wissem naouar; l. idkhajine; ilhem slama belkhodja; eric monmasson</td></tr><tr><td>Title:</td><td>indirect sliding mode power control for three phase grid connected power converter</td></tr><tr><td>Source:</td><td>iet power electronics, 8(6), 977-985</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1049/iet-pel.2013.0945",
+				"x": 1.3846,
+				"y": -0.1762,
+				"cluster": 15,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 2.2725
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 2.2725
+				}
+			},
+			{
+				"id": 155,
+				"label": "amjad anvari-moghaddam (2020)",
+				"description": "<table><tr><td>Authors:</td><td>amjad anvari-moghaddam; alireza akbari-dibavar; amir farahmand-zahed; kazem zare</td></tr><tr><td>Title:</td><td>risk-constrained scheduling of a chp-based microgrid including hydrogen energy storage using robust optimization approach</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 45(56), 32269-32284</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2020.08.227",
+				"x": -0.0758,
+				"y": -0.2624,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 3.3657
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 3.3657
+				}
+			},
+			{
+				"id": 158,
+				"label": "salvatore pietro cicconardi (1997)",
+				"description": "<table><tr><td>Authors:</td><td>salvatore pietro cicconardi; elio jannelli; giuseppe spazzafumo</td></tr><tr><td>Title:</td><td>hydrogen energy storage: hydrogen and oxygen storage subsystems</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 22(9), 897-902</td></tr><tr><td>Year:</td><td>1997</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/s0360-3199(96)00085-7",
+				"x": -0.5615,
+				"y": 0.3526,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 1.9200
+				},
+				"scores": {
+					"Pub. year": 1997.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 1.9200
+				}
+			},
+			{
+				"id": 163,
+				"label": "jingyang fang (2017)",
+				"description": "<table><tr><td>Authors:</td><td>jingyang fang; xiaoqiang li; yi tang</td></tr><tr><td>Title:</td><td>grid-connected power converters with distributed virtual power system inertia</td></tr><tr><td>Source:</td><td>european conference on cognitive ergonomics</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/ecce.2017.8096737",
+				"x": 0.9989,
+				"y": -0.0183,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.7084
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.7084
+				}
+			},
+			{
+				"id": 165,
+				"label": "jia liu (2021c)",
+				"description": "<table><tr><td>Authors:</td><td>jia liu; hongxing yang; yuekuan zhou</td></tr><tr><td>Title:</td><td>peer-to-peer energy trading of net-zero energy communities with renewable energy systems integrating hydrogen vehicle storage</td></tr><tr><td>Source:</td><td>applied energy, 298, 117206-117206</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.apenergy.2021.117206",
+				"x": -0.1254,
+				"y": 0.1950,
+				"cluster": 14,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 5.0987
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 5.0987
+				}
+			},
+			{
+				"id": 167,
+				"label": "samayan narayanamoorthy (2019)",
+				"description": "<table><tr><td>Authors:</td><td>samayan narayanamoorthy; l. ramya; dumitru baleanu; joseph varghese kureethara; veerappan annapoorani</td></tr><tr><td>Title:</td><td>application of normal wiggly dual hesitant fuzzy sets to site selection for hydrogen underground storage</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 44(54), 28874-28892</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2019.09.103",
+				"x": -0.7263,
+				"y": 0.0035,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 3.2416
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 3.2416
+				}
+			},
+			{
+				"id": 168,
+				"label": "yun wang (2020)",
+				"description": "<table><tr><td>Authors:</td><td>yun wang; milad kazemi; amjad anvari-moghaddam; kittisak jermsittiparsert</td></tr><tr><td>Title:</td><td>robust design of off-grid solar-powered charging station for hydrogen and electric vehicles via robust optimization approach</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 45(38), 18995-19006</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2020.05.098",
+				"x": -0.0593,
+				"y": -0.2829,
+				"cluster": 10,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 3.6914
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 3.6914
+				}
+			},
+			{
+				"id": 170,
+				"label": "doaa saleh mahdi (2021)",
+				"description": "<table><tr><td>Authors:</td><td>doaa saleh mahdi; emad a. al-khdheeawi; yujie yuan; yihuai zhang; stefan iglauer</td></tr><tr><td>Title:</td><td>hydrogen underground storage efﬁciency in a heterogeneous sandstone reservoir</td></tr><tr><td>Source:</td><td>advances in geo-energy research, 5(4), 437-443</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.46690/ager.2021.04.08",
+				"x": -1.1299,
+				"y": -0.1814,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 2.6266
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 2.6266
+				}
+			},
+			{
+				"id": 172,
+				"label": "mumtaz karatas (2020)",
+				"description": "<table><tr><td>Authors:</td><td>mumtaz karatas</td></tr><tr><td>Title:</td><td>hydrogen energy storage method selection using fuzzy axiomatic design and analytic hierarchy process</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 45(32), 16227-16238</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2019.11.130",
+				"x": -0.7700,
+				"y": -0.0301,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 2.6057
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 2.6057
+				}
+			},
+			{
+				"id": 175,
+				"label": "haizhen liu (2021)",
+				"description": "<table><tr><td>Authors:</td><td>haizhen liu; li xu; yu han; xin chen; peng sheng; shumao wang; xiantun huang; xinhua wang; chenglin lu; hui yan luo; he shixuan; zhiqiang lan; jin guo</td></tr><tr><td>Title:</td><td>development of a gaseous and solid-state hybrid system for stationary hydrogen energy storage</td></tr><tr><td>Source:</td><td>green energy & environment, 6(4), 528-537</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.gee.2020.06.006",
+				"x": -0.3349,
+				"y": -0.2177,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 3.2446
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 3.2446
+				}
+			},
+			{
+				"id": 183,
+				"label": "ruslan ufa (2021)",
+				"description": "<table><tr><td>Authors:</td><td>ruslan ufa; ya. yu. malkova; a l gusev; nikolay ruban; a. s. vasilev</td></tr><tr><td>Title:</td><td>algorithm for optimal pairing of res and hydrogen energy storage systems</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 46(68), 33659-33669</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2021.07.094",
+				"x": 0.1646,
+				"y": 0.0031,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 2.4721
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 2.4721
+				}
+			},
+			{
+				"id": 189,
+				"label": "mubbashir ali (2018)",
+				"description": "<table><tr><td>Authors:</td><td>mubbashir ali; jussi ekström; matti lehtonen</td></tr><tr><td>Title:</td><td>sizing hydrogen energy storage in consideration of demand response in highly renewable generation power systems</td></tr><tr><td>Source:</td><td>energies, 11(5), 1113-1113</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.3390/en11051113",
+				"x": -0.1520,
+				"y": -0.2159,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.2378
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.2378
+				}
+			},
+			{
+				"id": 191,
+				"label": "alan c. brent (2020)",
+				"description": "<table><tr><td>Authors:</td><td>alan c. brent</td></tr><tr><td>Title:</td><td>economic viability assessment of sustainable hydrogen production, storage, and utilisation technologies integrated into on- and off-grid micro-grids: a performance comparison of different meta-heuristics</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 45(59), 34412-34436</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2019.11.079",
+				"x": -1.1474,
+				"y": -0.1705,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 32.0000,
+					"Norm. citations": 3.4743
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 32.0000,
+					"Norm. citations": 3.4743
+				}
+			},
+			{
+				"id": 208,
+				"label": "francisco josé muñoz vivas (2020)",
+				"description": "<table><tr><td>Authors:</td><td>francisco josé muñoz vivas; f. segura; josé manuel andújar; adriana palacio; jaime luis saenz; f. isorna; eduardo lópez</td></tr><tr><td>Title:</td><td>multi-objective fuzzy logic-based energy management system for microgrids with battery and hydrogen energy storage system</td></tr><tr><td>Source:</td><td>electronics, 9(7), 1074-1074</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.3390/electronics9071074",
+				"x": -0.2497,
+				"y": 0.1184,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 2.2800
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 2.2800
+				}
+			},
+			{
+				"id": 228,
+				"label": "gregory n. baltas (2020)",
+				"description": "<table><tr><td>Authors:</td><td>gregory n. baltas; ngoc bao lai; leonardo marin; andres tarraso; pedro rodriguez</td></tr><tr><td>Title:</td><td>grid-forming power converters tuned through artificial intelligence to damp subsynchronous interactions in electrical grids</td></tr><tr><td>Source:</td><td>ieee access, 8, 93369-93379</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/access.2020.2995298",
+				"x": 1.0000,
+				"y": 0.3084,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 2.0629
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 2.0629
+				}
+			},
+			{
+				"id": 230,
+				"label": "amir mehdi razmi (2022)",
+				"description": "<table><tr><td>Authors:</td><td>amir mehdi razmi; seyed mojtaba alirahmi; mohammad hossein nabat; ehsanolah assareh; mahdi shahbakhti</td></tr><tr><td>Title:</td><td>a green hydrogen energy storage concept based on parabolic trough collector and proton exchange membrane electrolyzer/fuel cell: thermodynamic and exergoeconomic analyses with multi-objective optimization</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 47(62), 26468-26489</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2022.03.021",
+				"x": -0.3038,
+				"y": 0.1427,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 12.4946
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 12.4946
+				}
+			},
+			{
+				"id": 238,
+				"label": "alessandro crivellaro (2020)",
+				"description": "<table><tr><td>Authors:</td><td>alessandro crivellaro; ali tayyebi; catalin gavriluta; d. grob; adolfo anta; friederich kupzog; florian dörfler</td></tr><tr><td>Title:</td><td>beyond low-inertia systems: massive integration of grid-forming power converters in transmission grids</td></tr><tr><td>Source:</td><td>power and energy society general meeting</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/pesgm41954.2020.9282031",
+				"x": 1.0358,
+				"y": 0.3561,
+				"cluster": 8,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.8457
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.8457
+				}
+			},
+			{
+				"id": 243,
+				"label": "hamid esfandyari (2022)",
+				"description": "<table><tr><td>Authors:</td><td>hamid esfandyari; mohammad sarmadivaleh; feridun esmaeilzadeh; muhammad ali; stefan iglauer; alireza keshavarz</td></tr><tr><td>Title:</td><td>experimental evaluation of rock mineralogy on hydrogen-wettability: implications for hydrogen geo-storage</td></tr><tr><td>Source:</td><td>journal of energy storage, 52, 104866-104866</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.est.2022.104866",
+				"x": -0.9403,
+				"y": 0.0706,
+				"cluster": 7,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 5.3007
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 5.3007
+				}
+			},
+			{
+				"id": 247,
+				"label": "hanqing yang (2019)",
+				"description": "<table><tr><td>Authors:</td><td>hanqing yang; qi li; shu-dan zhao; weirong chen; hong liu</td></tr><tr><td>Title:</td><td>a hierarchical self-regulation control for economic operation of ac/dc hybrid microgrid with hydrogen energy storage system</td></tr><tr><td>Source:</td><td>ieee access, 7, 89330-89341</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/access.2019.2923794",
+				"x": -1.1277,
+				"y": -0.1428,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 2.1611
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 2.1611
+				}
+			},
+			{
+				"id": 256,
+				"label": "arezoo nouralinejad (2014)",
+				"description": "<table><tr><td>Authors:</td><td>arezoo nouralinejad; azam bagheri; mohammad mardaneh; mostafa malekpour</td></tr><tr><td>Title:</td><td>improving the decoupled double srf pll for grid connected power converters</td></tr><tr><td>Source:</td><td>international conference on power electronics and drive systems</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/pedstc.2014.6799398",
+				"x": 1.3005,
+				"y": -0.1191,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.7152
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.7152
+				}
+			},
+			{
+				"id": 270,
+				"label": "mohammad reza miveh (2016)",
+				"description": "<table><tr><td>Authors:</td><td>mohammad reza miveh; mohd. fua'ad rahmat; mohd wazir mustafa; ali asghar ghadimi; ali reza rezvani</td></tr><tr><td>Title:</td><td>an improved control strategy for a four-leg grid-forming power converter under unbalanced load conditions</td></tr><tr><td>Source:</td><td>advances in power electronics (print), 2016, 1-14</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1155/2016/9123747",
+				"x": 1.2735,
+				"y": -0.1201,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 1.5057
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 1.5057
+				}
+			},
+			{
+				"id": 271,
+				"label": "marcos tostado-véliz (2022)",
+				"description": "<table><tr><td>Authors:</td><td>marcos tostado-véliz; salah kamel; hany m. hasanien; rania a. turky; francisco jurado</td></tr><tr><td>Title:</td><td>a mixed-integer-linear-logical programming interval-based model for optimal scheduling of isolated microgrids with green hydrogen-based storage considering demand response</td></tr><tr><td>Source:</td><td>journal of energy storage, 48, 104028-104028</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.est.2022.104028",
+				"x": -0.1532,
+				"y": -0.2085,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 8.3297
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 8.3297
+				}
+			},
+			{
+				"id": 272,
+				"label": "ibrahim alhajri (2021)",
+				"description": "<table><tr><td>Authors:</td><td>ibrahim alhajri; ali ahmadian; ali elkamel</td></tr><tr><td>Title:</td><td>stochastic day-ahead unit commitment scheduling of integrated electricity and gas networks with hydrogen energy storage (hes), plug-in electric vehicles (pevs) and renewable energies</td></tr><tr><td>Source:</td><td>sustainable cities and society, 67, 102736-102736</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.scs.2021.102736",
+				"x": -0.0641,
+				"y": -0.2537,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 3.2446
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 3.2446
+				}
+			},
+			{
+				"id": 273,
+				"label": "mohd aftab alam (2019)",
+				"description": "<table><tr><td>Authors:</td><td>mohd aftab alam; kuldeep kumar; viresh dutta</td></tr><tr><td>Title:</td><td>design and analysis of fuel cell and photovoltaic based 110 v dc microgrid using hydrogen energy storage</td></tr><tr><td>Source:</td><td>energy storage, 1(3)</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1002/est2.60",
+				"x": -0.1031,
+				"y": -0.0020,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.7559
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.7559
+				}
+			},
+			{
+				"id": 282,
+				"label": "mohd aftab alam (2020)",
+				"description": "<table><tr><td>Authors:</td><td>mohd aftab alam; kuldeep kumar; saket verma; viresh dutta</td></tr><tr><td>Title:</td><td>renewable sources based dc microgrid using hydrogen energy storage: modelling and experimental analysis</td></tr><tr><td>Source:</td><td>sustainable energy technologies and assessments, 42, 100840-100840</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.seta.2020.100840",
+				"x": -0.1097,
+				"y": -0.0030,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.1943
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.1943
+				}
+			},
+			{
+				"id": 289,
+				"label": "zheng li (2021)",
+				"description": "<table><tr><td>Authors:</td><td>zheng li; hao dong; shaodong hou; liyuan cheng; hexu sun</td></tr><tr><td>Title:</td><td>coordinated control scheme of a hybrid renewable power system based on hydrogen energy storage</td></tr><tr><td>Source:</td><td>energy reports, 7, 5597-5611</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.egyr.2021.08.176",
+				"x": -1.1327,
+				"y": -0.1633,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.5451
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.5451
+				}
+			},
+			{
+				"id": 292,
+				"label": "christian pötzinger (2015)",
+				"description": "<table><tr><td>Authors:</td><td>christian pötzinger; markus preißinger; dieter brüggemann</td></tr><tr><td>Title:</td><td>influence of hydrogen-based storage systems on self-consumption and self-sufficiency of residential photovoltaic systems</td></tr><tr><td>Source:</td><td>energies, 8(8), 8887-8907</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.3390/en8088887",
+				"x": -0.5530,
+				"y": 0.3233,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.7575
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.7575
+				}
+			},
+			{
+				"id": 354,
+				"label": "fazil qureshi (2022)",
+				"description": "<table><tr><td>Authors:</td><td>fazil qureshi; mohammad yusuf; hesam kamyab; sadaf zaidi; mohd sahaid khalil; mohd shahnawaz khan; mohammad khursheed alam; faisal masood; leila bazli; shreeshivadasan chelliapan; bawadi abdullah</td></tr><tr><td>Title:</td><td>current trends in hydrogen production, storage and applications in india: a review</td></tr><tr><td>Source:</td><td>sustainable energy technologies and assessments, 53, 102677-102677</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.seta.2022.102677",
+				"x": -1.0055,
+				"y": -0.1037,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 2.2717
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 2.2717
+				}
+			},
+			{
+				"id": 358,
+				"label": "ke guo (2018)",
+				"description": "<table><tr><td>Authors:</td><td>ke guo; jingyang fang; yi tang</td></tr><tr><td>Title:</td><td>autonomous dc-link voltage restoration for grid-connected power converters providing virtual inertia</td></tr><tr><td>Source:</td><td>european conference on cognitive ergonomics</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/ecce.2018.8557440",
+				"x": 0.8231,
+				"y": 0.0258,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.4951
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.4951
+				}
+			},
+			{
+				"id": 378,
+				"label": "tiejiang yuan (2018)",
+				"description": "<table><tr><td>Authors:</td><td>tiejiang yuan; jin-jun wang; yuhang guan; zheng liu; xinfu song; yong che; wenping cao</td></tr><tr><td>Title:</td><td>virtual inertia adaptive control of a doubly fed induction generator (dfig) wind power system with hydrogen energy storage</td></tr><tr><td>Source:</td><td>energies, 11(4), 904-904</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.3390/en11040904",
+				"x": -0.3592,
+				"y": -0.2294,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.4951
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.4951
+				}
+			},
+			{
+				"id": 380,
+				"label": "mehrdad aslani (2022)",
+				"description": "<table><tr><td>Authors:</td><td>mehrdad aslani; amir imanloozadeh; hamed hashemi-dezaki; maryam a. hejazi; mohammad nazififard; abbas ketabi</td></tr><tr><td>Title:</td><td>optimal probabilistic reliability-oriented planning of islanded microgrids considering hydrogen-based storage systems, hydrogen vehicles, and electric vehicles under various climatic conditions</td></tr><tr><td>Source:</td><td>journal of power sources, 525, 231100-231100</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.jpowsour.2022.231100",
+				"x": -0.0505,
+				"y": -0.2765,
+				"cluster": 10,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 4.9221
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 4.9221
+				}
+			},
+			{
+				"id": 381,
+				"label": "robert hren (2023)",
+				"description": "<table><tr><td>Authors:</td><td>robert hren; annamaria vujanović; yee van fan; jiří jaromír klemeš; damjan krajnc; lidija čuček</td></tr><tr><td>Title:</td><td>hydrogen production, storage and transport for renewable energy and chemicals: an environmental footprint assessment</td></tr><tr><td>Source:</td><td>renewable & sustainable energy reviews, 173, 113113-113113</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.rser.2022.113113",
+				"x": -0.7704,
+				"y": 0.0769,
+				"cluster": 12,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 21.6000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 21.6000
+				}
+			},
+			{
+				"id": 382,
+				"label": "n. g. kiryanova (2022)",
+				"description": "<table><tr><td>Authors:</td><td>n. g. kiryanova; pavel matrenin; s.v. mitrofanov; sergey kokin; m. kh. safaraliev</td></tr><tr><td>Title:</td><td>hydrogen energy storage systems to improve wind power plant efficiency considering electricity tariff dynamics</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 47(18), 10156-10165</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2022.01.152",
+				"x": 0.0492,
+				"y": -0.0252,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 3.0290
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 3.0290
+				}
+			},
+			{
+				"id": 392,
+				"label": "angelo lunardi (2022)",
+				"description": "<table><tr><td>Authors:</td><td>angelo lunardi; luís carvalho lourenço; enkhtsetseg munkhchuluun; lasantha meegahapola; alfeu j. sguarezi filho</td></tr><tr><td>Title:</td><td>grid-connected power converters: an overview of control strategies for renewable energy</td></tr><tr><td>Source:</td><td>energies, 15(11), 4151-4151</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.3390/en15114151",
+				"x": 1.0164,
+				"y": 0.2982,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 2.2717
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 2.2717
+				}
+			},
+			{
+				"id": 394,
+				"label": "dallia ali (2016)",
+				"description": "<table><tr><td>Authors:</td><td>dallia ali; r. gazey; daniel aklil</td></tr><tr><td>Title:</td><td>developing a thermally compensated electrolyser model coupled with pressurised hydrogen storage for modelling the energy efficiency of hydrogen energy storage systems and identifying their operation performance issues</td></tr><tr><td>Source:</td><td>renewable & sustainable energy reviews, 66, 27-37</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.rser.2016.07.067",
+				"x": -0.3451,
+				"y": -0.2633,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.8469
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.8469
+				}
+			},
+			{
+				"id": 400,
+				"label": "di wu (2022)",
+				"description": "<table><tr><td>Authors:</td><td>di wu; dexin wang; t.b. ramachandran; jamie d. holladay</td></tr><tr><td>Title:</td><td>a techno-economic assessment framework for hydrogen energy storage toward multiple energy delivery pathways and grid services</td></tr><tr><td>Source:</td><td>energy, 249, 123638-123638</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.energy.2022.123638",
+				"x": -0.2911,
+				"y": 0.1530,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 3.0290
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 3.0290
+				}
+			},
+			{
+				"id": 406,
+				"label": "masoud aslannezhad (2023)",
+				"description": "<table><tr><td>Authors:</td><td>masoud aslannezhad; muhammad ali; azim kalantariasl; mohammad sayyafzadeh; zhenjiang you; stefan iglauer; alireza keshavarz</td></tr><tr><td>Title:</td><td>a review of hydrogen/rock/brine interaction: implications for hydrogen geo-storage</td></tr><tr><td>Source:</td><td>progress in energy and combustion science, 95, 101066-101066</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.pecs.2022.101066",
+				"x": -0.8549,
+				"y": 0.0531,
+				"cluster": 12,
+				"weights": {
+					"Links": 12.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 18.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 18.0000
+				}
+			},
+			{
+				"id": 414,
+				"label": "salvatore pietro cicconardi (1993)",
+				"description": "<table><tr><td>Authors:</td><td>salvatore pietro cicconardi; elio jannelli; giuseppe spazzafumo</td></tr><tr><td>Title:</td><td>hydrogen energy storage: preliminary analysis</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 18(11), 933-940</td></tr><tr><td>Year:</td><td>1993</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/0360-3199(93)90064-h",
+				"x": -0.5591,
+				"y": 0.3451,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.8182
+				},
+				"scores": {
+					"Pub. year": 1993.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.8182
+				}
+			},
+			{
+				"id": 427,
+				"label": "lajos torok (2017)",
+				"description": "<table><tr><td>Authors:</td><td>lajos torok; laszlo mathe; carsten uhd nielsen; stig munk-nielsen</td></tr><tr><td>Title:</td><td>modeling and control of three-phase grid-connected power supply with a small dc-link capacitor for electrolyzers</td></tr><tr><td>Source:</td><td>ieee transactions on industry applications, 53(5), 4634-4643</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tia.2017.2698372",
+				"x": 1.2769,
+				"y": -0.0743,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4783
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4783
+				}
+			},
+			{
+				"id": 458,
+				"label": "ahmad alzahrani (2022)",
+				"description": "<table><tr><td>Authors:</td><td>ahmad alzahrani; senthil kumar ramu; gunapriya devarajan; v. indragandhi; subramaniyaswamy vairavasundaram</td></tr><tr><td>Title:</td><td>a review on hydrogen-based hybrid microgrid system: topologies for hydrogen energy storage, integration, and energy management with solar and wind energy</td></tr><tr><td>Source:</td><td>energies, 15(21), 7979-7979</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.3390/en15217979",
+				"x": -1.1179,
+				"y": -0.1565,
+				"cluster": 4,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 2.6504
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 2.6504
+				}
+			},
+			{
+				"id": 471,
+				"label": "taihei yamamura (2022)",
+				"description": "<table><tr><td>Authors:</td><td>taihei yamamura; taisuke nakanishi; jihan lee; shun yamate; junichiro otomo</td></tr><tr><td>Title:</td><td>design and evaluation of hydrogen energy storage systems using metal oxides</td></tr><tr><td>Source:</td><td>energy & fuels, 36(17), 9745-9756</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1021/acs.energyfuels.2c00910",
+				"x": -1.1132,
+				"y": -0.1724,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.5145
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.5145
+				}
+			},
+			{
+				"id": 476,
+				"label": "esra ilbahar (2022)",
+				"description": "<table><tr><td>Authors:</td><td>esra ilbahar; murat çolak; ali karaşan; i̇smet kaya</td></tr><tr><td>Title:</td><td>a combined methodology based on z-fuzzy numbers for sustainability assessment of hydrogen energy storage systems</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 47(34), 15528-15546</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2022.01.010",
+				"x": -0.6838,
+				"y": -0.0078,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.8931
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.8931
+				}
+			},
+			{
+				"id": 479,
+				"label": "s. fukaume (2022)",
+				"description": "<table><tr><td>Authors:</td><td>s. fukaume; yukio nagasaki; motoyuki tsuda</td></tr><tr><td>Title:</td><td>stable power supply of an independent power source for a remote island using a hybrid energy storage system composed of electric and hydrogen energy storage systems</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 47(29), 13887-13899</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2022.02.142",
+				"x": -0.2588,
+				"y": -0.1992,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 3.0290
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 3.0290
+				}
+			},
+			{
+				"id": 485,
+				"label": "jingyang fang (2021b)",
+				"description": "<table><tr><td>Authors:</td><td>jingyang fang; hao deng; teymoor ghanbari; frede blaabjerg; stefan m. goetz</td></tr><tr><td>Title:</td><td>state-space modeling and control of grid-tied power converters with capacitive/battery energy storage and grid-supportive services</td></tr><tr><td>Source:</td><td>ieee journal of emerging and selected topics in power electronics, 11(1), 234-250</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/jestpe.2021.3101527",
+				"x": 0.8884,
+				"y": -0.0052,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.9270
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.9270
+				}
+			},
+			{
+				"id": 491,
+				"label": "son thai le (2022)",
+				"description": "<table><tr><td>Authors:</td><td>son thai le; tuan v. nguyen; steven linforth; tuan duc ngo</td></tr><tr><td>Title:</td><td>safety investigation of hydrogen energy storage systems using quantitative risk assessment</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 48(7), 2861-2875</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2022.10.082",
+				"x": -0.2056,
+				"y": 0.0925,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.5145
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.5145
+				}
+			},
+			{
+				"id": 510,
+				"label": "weiyi zhang (2015)",
+				"description": "<table><tr><td>Authors:</td><td>weiyi zhang; alvaro luna; jose ignacio candela; joan rocabert; pedro rodriguez</td></tr><tr><td>Title:</td><td>an active power synchronizing controller for grid-connected power converters with configurable natural droop characteristics</td></tr><tr><td>Source:</td><td>international symposium on power electronics for distributed generation systems</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/pedg.2015.7223055",
+				"x": 1.4270,
+				"y": -0.1136,
+				"cluster": 16,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.3367
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.3367
+				}
+			},
+			{
+				"id": 532,
+				"label": "k. sridharan (2021)",
+				"description": "<table><tr><td>Authors:</td><td>k. sridharan; b. r. s. babu</td></tr><tr><td>Title:</td><td>accurate phase detection system using modified sgdft-based pll for three-phase grid-interactive power converter during interharmonic conditions</td></tr><tr><td>Source:</td><td>ieee transactions on instrumentation and measurement, 71, 1-11</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tim.2021.3136172",
+				"x": 1.3579,
+				"y": -0.0805,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.9270
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.9270
+				}
+			},
+			{
+				"id": 556,
+				"label": "nanjun lu (2019)",
+				"description": "<table><tr><td>Authors:</td><td>nanjun lu; jingyang fang; yi tang; branislav hredzak</td></tr><tr><td>Title:</td><td>a frequency deadband-based virtual inertia control for grid-connected power converters</td></tr><tr><td>Source:</td><td>international conference on performance engineering</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.23919/icpe2019-ecceasia42246.2019.8796992",
+				"x": 0.8905,
+				"y": 0.0176,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4052
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4052
+				}
+			},
+			{
+				"id": 561,
+				"label": "ali tayyebi (2020b)",
+				"description": "<table><tr><td>Authors:</td><td>ali tayyebi; adolfo anta; florian dörfler</td></tr><tr><td>Title:</td><td>hybrid angle control and almost global stability of grid-forming power converters</td></tr><tr><td>Source:</td><td>arxiv (cornell university)</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"x": 1.0314,
+				"y": 0.3436,
+				"cluster": 8,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.3257
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.3257
+				}
+			},
+			{
+				"id": 583,
+				"label": "ali tayyebi (2019b)",
+				"description": "<table><tr><td>Authors:</td><td>ali tayyebi; dominic groß; adolfo anta; friederich kupzog; florian dörfler</td></tr><tr><td>Title:</td><td>interactions of grid-forming power converters and synchronous machines.</td></tr><tr><td>Source:</td><td>arxiv (cornell university)</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"x": 1.0559,
+				"y": 0.3621,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.2701
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.2701
+				}
+			},
+			{
+				"id": 594,
+				"label": "jingyang fang (2018b)",
+				"description": "<table><tr><td>Authors:</td><td>jingyang fang; ruiqi zhang; yi tang; li hongchang</td></tr><tr><td>Title:</td><td>inertia enhancement by grid-connected power converters with frequency-locked-loops for frequency derivative estimation</td></tr><tr><td>Source:</td><td>power and energy society general meeting</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/pesgm.2018.8586213",
+				"x": 1.0379,
+				"y": -0.0301,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.1857
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.1857
+				}
+			},
+			{
+				"id": 614,
+				"label": "ngoc bao lai (2021)",
+				"description": "<table><tr><td>Authors:</td><td>ngoc bao lai; andres tarraso; gregory n. baltas; leonardo arevalo; pedro rodriguez</td></tr><tr><td>Title:</td><td>external inertia emulation controller for grid-following power converter</td></tr><tr><td>Source:</td><td>ieee transactions on industry applications, 57(6), 6568-6576</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/tia.2021.3108350",
+				"x": 0.9428,
+				"y": 0.2037,
+				"cluster": 8,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.3090
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.3090
+				}
+			},
+			{
+				"id": 705,
+				"label": "k. sridharan (2020)",
+				"description": "<table><tr><td>Authors:</td><td>k. sridharan; b. r. s. babu</td></tr><tr><td>Title:</td><td>an improved grid synchronization method of grid-interactive power converter system during distorted grid conditions</td></tr><tr><td>Source:</td><td>ieee power india international conference</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/piicon49524.2020.9112941",
+				"x": 1.3497,
+				"y": -0.0910,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.2171
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.2171
+				}
+			},
+			{
+				"id": 720,
+				"label": "lajos torok (2016)",
+				"description": "<table><tr><td>Authors:</td><td>lajos torok; laszlo mathe; carsten uhd nielsen; stig munk-nielsen</td></tr><tr><td>Title:</td><td>modelling and control of three-phase grid-connected power supply with small dc-link capacitor for electrolysers</td></tr><tr><td>Source:</td><td>international conference on environment and electrical engineering</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/eeeic.2016.7555674",
+				"x": 1.2710,
+				"y": -0.0782,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1882
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1882
+				}
+			},
+			{
+				"id": 741,
+				"label": "igor razzhivin (2022)",
+				"description": "<table><tr><td>Authors:</td><td>igor razzhivin; vladimir rudnik; y.d. bay; a v kievec</td></tr><tr><td>Title:</td><td>coordinated control of a hybrid type 3 wind turbine and hydrogen energy storage model to provide efficient frequency control</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 47(85), 35947-35958</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2022.08.241",
+				"x": 0.1550,
+				"y": 0.0018,
+				"cluster": 11,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.7572
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.7572
+				}
+			},
+			{
+				"id": 761,
+				"label": "man wu (2022)",
+				"description": "<table><tr><td>Authors:</td><td>man wu; yunna wu; jiaqing he; minjia xu; ting zhang; jianli zhou</td></tr><tr><td>Title:</td><td>barrier identification, analysis and solutions of hydrogen energy storage application in multiple power scenarios based on improved dematal-ism approach</td></tr><tr><td>Source:</td><td>international journal of hydrogen energy, 47(71), 30329-30346</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijhydene.2022.07.009",
+				"x": -0.5299,
+				"y": 0.2606,
+				"cluster": 9,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.7572
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.7572
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 381
+			},
+			{
+				"source_id": 1,
+				"target_id": 406
+			},
+			{
+				"source_id": 2,
+				"target_id": 42
+			},
+			{
+				"source_id": 2,
+				"target_id": 70
+			},
+			{
+				"source_id": 2,
+				"target_id": 73
+			},
+			{
+				"source_id": 2,
+				"target_id": 81
+			},
+			{
+				"source_id": 2,
+				"target_id": 97
+			},
+			{
+				"source_id": 2,
+				"target_id": 147
+			},
+			{
+				"source_id": 2,
+				"target_id": 167
+			},
+			{
+				"source_id": 2,
+				"target_id": 175
+			},
+			{
+				"source_id": 2,
+				"target_id": 243
+			},
+			{
+				"source_id": 2,
+				"target_id": 381
+			},
+			{
+				"source_id": 2,
+				"target_id": 406
+			},
+			{
+				"source_id": 2,
+				"target_id": 458
+			},
+			{
+				"source_id": 2,
+				"target_id": 476
+			},
+			{
+				"source_id": 2,
+				"target_id": 761
+			},
+			{
+				"source_id": 3,
+				"target_id": 70
+			},
+			{
+				"source_id": 3,
+				"target_id": 73
+			},
+			{
+				"source_id": 3,
+				"target_id": 85
+			},
+			{
+				"source_id": 3,
+				"target_id": 172
+			},
+			{
+				"source_id": 3,
+				"target_id": 354
+			},
+			{
+				"source_id": 3,
+				"target_id": 406
+			},
+			{
+				"source_id": 3,
+				"target_id": 476
+			},
+			{
+				"source_id": 5,
+				"target_id": 22
+			},
+			{
+				"source_id": 5,
+				"target_id": 56
+			},
+			{
+				"source_id": 5,
+				"target_id": 67
+			},
+			{
+				"source_id": 5,
+				"target_id": 91
+			},
+			{
+				"source_id": 5,
+				"target_id": 98
+			},
+			{
+				"source_id": 5,
+				"target_id": 99
+			},
+			{
+				"source_id": 5,
+				"target_id": 152
+			},
+			{
+				"source_id": 5,
+				"target_id": 256
+			},
+			{
+				"source_id": 5,
+				"target_id": 270
+			},
+			{
+				"source_id": 5,
+				"target_id": 427
+			},
+			{
+				"source_id": 5,
+				"target_id": 532
+			},
+			{
+				"source_id": 5,
+				"target_id": 594
+			},
+			{
+				"source_id": 5,
+				"target_id": 705
+			},
+			{
+				"source_id": 5,
+				"target_id": 720
+			},
+			{
+				"source_id": 7,
+				"target_id": 56
+			},
+			{
+				"source_id": 7,
+				"target_id": 144
+			},
+			{
+				"source_id": 7,
+				"target_id": 163
+			},
+			{
+				"source_id": 7,
+				"target_id": 358
+			},
+			{
+				"source_id": 7,
+				"target_id": 485
+			},
+			{
+				"source_id": 7,
+				"target_id": 556
+			},
+			{
+				"source_id": 7,
+				"target_id": 614
+			},
+			{
+				"source_id": 7,
+				"target_id": 741
+			},
+			{
+				"source_id": 13,
+				"target_id": 152
+			},
+			{
+				"source_id": 22,
+				"target_id": 99
+			},
+			{
+				"source_id": 22,
+				"target_id": 137
+			},
+			{
+				"source_id": 23,
+				"target_id": 70
+			},
+			{
+				"source_id": 23,
+				"target_id": 406
+			},
+			{
+				"source_id": 26,
+				"target_id": 458
+			},
+			{
+				"source_id": 28,
+				"target_id": 52
+			},
+			{
+				"source_id": 28,
+				"target_id": 228
+			},
+			{
+				"source_id": 28,
+				"target_id": 392
+			},
+			{
+				"source_id": 28,
+				"target_id": 561
+			},
+			{
+				"source_id": 28,
+				"target_id": 614
+			},
+			{
+				"source_id": 29,
+				"target_id": 81
+			},
+			{
+				"source_id": 29,
+				"target_id": 87
+			},
+			{
+				"source_id": 29,
+				"target_id": 132
+			},
+			{
+				"source_id": 29,
+				"target_id": 136
+			},
+			{
+				"source_id": 29,
+				"target_id": 230
+			},
+			{
+				"source_id": 29,
+				"target_id": 400
+			},
+			{
+				"source_id": 31,
+				"target_id": 91
+			},
+			{
+				"source_id": 32,
+				"target_id": 172
+			},
+			{
+				"source_id": 32,
+				"target_id": 476
+			},
+			{
+				"source_id": 38,
+				"target_id": 87
+			},
+			{
+				"source_id": 41,
+				"target_id": 132
+			},
+			{
+				"source_id": 42,
+				"target_id": 71
+			},
+			{
+				"source_id": 42,
+				"target_id": 73
+			},
+			{
+				"source_id": 42,
+				"target_id": 78
+			},
+			{
+				"source_id": 42,
+				"target_id": 85
+			},
+			{
+				"source_id": 42,
+				"target_id": 97
+			},
+			{
+				"source_id": 42,
+				"target_id": 138
+			},
+			{
+				"source_id": 42,
+				"target_id": 140
+			},
+			{
+				"source_id": 42,
+				"target_id": 147
+			},
+			{
+				"source_id": 42,
+				"target_id": 243
+			},
+			{
+				"source_id": 43,
+				"target_id": 292
+			},
+			{
+				"source_id": 43,
+				"target_id": 414
+			},
+			{
+				"source_id": 43,
+				"target_id": 761
+			},
+			{
+				"source_id": 51,
+				"target_id": 70
+			},
+			{
+				"source_id": 51,
+				"target_id": 71
+			},
+			{
+				"source_id": 51,
+				"target_id": 172
+			},
+			{
+				"source_id": 51,
+				"target_id": 406
+			},
+			{
+				"source_id": 52,
+				"target_id": 238
+			},
+			{
+				"source_id": 52,
+				"target_id": 561
+			},
+			{
+				"source_id": 52,
+				"target_id": 583
+			},
+			{
+				"source_id": 53,
+				"target_id": 104
+			},
+			{
+				"source_id": 53,
+				"target_id": 168
+			},
+			{
+				"source_id": 53,
+				"target_id": 380
+			},
+			{
+				"source_id": 54,
+				"target_id": 71
+			},
+			{
+				"source_id": 56,
+				"target_id": 485
+			},
+			{
+				"source_id": 56,
+				"target_id": 556
+			},
+			{
+				"source_id": 58,
+				"target_id": 87
+			},
+			{
+				"source_id": 58,
+				"target_id": 476
+			},
+			{
+				"source_id": 60,
+				"target_id": 81
+			},
+			{
+				"source_id": 60,
+				"target_id": 155
+			},
+			{
+				"source_id": 60,
+				"target_id": 271
+			},
+			{
+				"source_id": 60,
+				"target_id": 272
+			},
+			{
+				"source_id": 63,
+				"target_id": 81
+			},
+			{
+				"source_id": 63,
+				"target_id": 271
+			},
+			{
+				"source_id": 63,
+				"target_id": 479
+			},
+			{
+				"source_id": 66,
+				"target_id": 87
+			},
+			{
+				"source_id": 67,
+				"target_id": 510
+			},
+			{
+				"source_id": 70,
+				"target_id": 71
+			},
+			{
+				"source_id": 70,
+				"target_id": 167
+			},
+			{
+				"source_id": 70,
+				"target_id": 476
+			},
+			{
+				"source_id": 71,
+				"target_id": 97
+			},
+			{
+				"source_id": 71,
+				"target_id": 147
+			},
+			{
+				"source_id": 71,
+				"target_id": 406
+			},
+			{
+				"source_id": 73,
+				"target_id": 78
+			},
+			{
+				"source_id": 73,
+				"target_id": 85
+			},
+			{
+				"source_id": 73,
+				"target_id": 97
+			},
+			{
+				"source_id": 73,
+				"target_id": 138
+			},
+			{
+				"source_id": 73,
+				"target_id": 140
+			},
+			{
+				"source_id": 73,
+				"target_id": 147
+			},
+			{
+				"source_id": 73,
+				"target_id": 243
+			},
+			{
+				"source_id": 73,
+				"target_id": 406
+			},
+			{
+				"source_id": 75,
+				"target_id": 406
+			},
+			{
+				"source_id": 78,
+				"target_id": 85
+			},
+			{
+				"source_id": 78,
+				"target_id": 140
+			},
+			{
+				"source_id": 78,
+				"target_id": 243
+			},
+			{
+				"source_id": 78,
+				"target_id": 406
+			},
+			{
+				"source_id": 81,
+				"target_id": 84
+			},
+			{
+				"source_id": 81,
+				"target_id": 382
+			},
+			{
+				"source_id": 84,
+				"target_id": 87
+			},
+			{
+				"source_id": 84,
+				"target_id": 282
+			},
+			{
+				"source_id": 85,
+				"target_id": 97
+			},
+			{
+				"source_id": 85,
+				"target_id": 138
+			},
+			{
+				"source_id": 85,
+				"target_id": 140
+			},
+			{
+				"source_id": 85,
+				"target_id": 147
+			},
+			{
+				"source_id": 85,
+				"target_id": 243
+			},
+			{
+				"source_id": 85,
+				"target_id": 406
+			},
+			{
+				"source_id": 87,
+				"target_id": 116
+			},
+			{
+				"source_id": 87,
+				"target_id": 208
+			},
+			{
+				"source_id": 87,
+				"target_id": 491
+			},
+			{
+				"source_id": 87,
+				"target_id": 741
+			},
+			{
+				"source_id": 91,
+				"target_id": 98
+			},
+			{
+				"source_id": 94,
+				"target_id": 116
+			},
+			{
+				"source_id": 94,
+				"target_id": 165
+			},
+			{
+				"source_id": 97,
+				"target_id": 140
+			},
+			{
+				"source_id": 97,
+				"target_id": 147
+			},
+			{
+				"source_id": 97,
+				"target_id": 243
+			},
+			{
+				"source_id": 97,
+				"target_id": 406
+			},
+			{
+				"source_id": 105,
+				"target_id": 614
+			},
+			{
+				"source_id": 108,
+				"target_id": 148
+			},
+			{
+				"source_id": 116,
+				"target_id": 165
+			},
+			{
+				"source_id": 131,
+				"target_id": 485
+			},
+			{
+				"source_id": 132,
+				"target_id": 134
+			},
+			{
+				"source_id": 132,
+				"target_id": 761
+			},
+			{
+				"source_id": 135,
+				"target_id": 175
+			},
+			{
+				"source_id": 135,
+				"target_id": 378
+			},
+			{
+				"source_id": 136,
+				"target_id": 208
+			},
+			{
+				"source_id": 137,
+				"target_id": 532
+			},
+			{
+				"source_id": 138,
+				"target_id": 140
+			},
+			{
+				"source_id": 138,
+				"target_id": 406
+			},
+			{
+				"source_id": 140,
+				"target_id": 147
+			},
+			{
+				"source_id": 140,
+				"target_id": 243
+			},
+			{
+				"source_id": 147,
+				"target_id": 243
+			},
+			{
+				"source_id": 148,
+				"target_id": 394
+			},
+			{
+				"source_id": 155,
+				"target_id": 168
+			},
+			{
+				"source_id": 158,
+				"target_id": 414
+			},
+			{
+				"source_id": 163,
+				"target_id": 594
+			},
+			{
+				"source_id": 167,
+				"target_id": 476
+			},
+			{
+				"source_id": 168,
+				"target_id": 380
+			},
+			{
+				"source_id": 170,
+				"target_id": 458
+			},
+			{
+				"source_id": 172,
+				"target_id": 476
+			},
+			{
+				"source_id": 175,
+				"target_id": 394
+			},
+			{
+				"source_id": 175,
+				"target_id": 479
+			},
+			{
+				"source_id": 183,
+				"target_id": 741
+			},
+			{
+				"source_id": 189,
+				"target_id": 271
+			},
+			{
+				"source_id": 191,
+				"target_id": 458
+			},
+			{
+				"source_id": 238,
+				"target_id": 561
+			},
+			{
+				"source_id": 247,
+				"target_id": 458
+			},
+			{
+				"source_id": 272,
+				"target_id": 380
+			},
+			{
+				"source_id": 273,
+				"target_id": 282
+			},
+			{
+				"source_id": 289,
+				"target_id": 458
+			},
+			{
+				"source_id": 354,
+				"target_id": 458
+			},
+			{
+				"source_id": 382,
+				"target_id": 741
+			},
+			{
+				"source_id": 427,
+				"target_id": 720
+			},
+			{
+				"source_id": 458,
+				"target_id": 471
+			},
+			{
+				"source_id": 532,
+				"target_id": 705
+			}
+		]
+	}
+}
